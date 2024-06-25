@@ -24,7 +24,7 @@
 
 ### Screen Shots of the project
 ### 1. **Overview of the Project**
-  <img width="960" alt="Project_OverView" src="https://github.com/SravyaVardhani/SORTING_ILLUSTRATOR/assets/99634918/2eee0647-f0dc-4769-87b0-5e41b05dc885">
+  <img width="960" alt="Project_OverView" src="https://github.com/csaicharanteja/SORTING_ILLUSTRATOR/assets/99634918/2eee0647-f0dc-4769-87b0-5e41b05dc885">
 <br>
 
 ### 2. **Selection Sort**
