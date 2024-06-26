@@ -1,6 +1,6 @@
 # SORTING_ILLUSTRATOR
 **A Web-based Project developed to illustrate different sorting techniques using a bar graph representation of input array values.**
-#### Have a look at the live version here: https://csaicharanteja.github.io/SORTING_ILLUSTRATOR/
+#### Have a look at the live version here: https://SravyaVardhani.github.io/SORTING_ILLUSTRATOR/
 <details>
   <summary>Implemented Algorithms</summary>
   <br>
@@ -24,7 +24,7 @@
 
 ### Screen Shots of the project
 ### 1. **Overview of the Project**
-  <img width="960" alt="Project_OverView" src="https://github.com/csaicharanteja/SORTING_ILLUSTRATOR/assets/99634918/2eee0647-f0dc-4769-87b0-5e41b05dc885">
+  <img width="960" alt="Project_OverView" src="https://github.com/SravyaVardhani/SORTING_ILLUSTRATOR/assets/99634918/2eee0647-f0dc-4769-87b0-5e41b05dc885">
 <br>
 
 ### 2. **Selection Sort**
